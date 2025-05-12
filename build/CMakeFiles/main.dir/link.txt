@@ -1,0 +1,1 @@
+/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/main.dir/link.d CMakeFiles/main.dir/src/big_company.cc.o CMakeFiles/main.dir/src/company.cc.o CMakeFiles/main.dir/src/main.cc.o CMakeFiles/main.dir/src/mid_company.cc.o CMakeFiles/main.dir/src/programmer.cc.o CMakeFiles/main.dir/src/programmer_cpp.cc.o CMakeFiles/main.dir/src/programmer_go.cc.o -o /home/nexus/linuxCppTemplate/bin/main

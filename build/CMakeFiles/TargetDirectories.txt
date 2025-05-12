@@ -1,0 +1,4 @@
+/home/nexus/linuxCppTemplate/build/CMakeFiles/main.dir
+/home/nexus/linuxCppTemplate/build/CMakeFiles/test.dir
+/home/nexus/linuxCppTemplate/build/CMakeFiles/edit_cache.dir
+/home/nexus/linuxCppTemplate/build/CMakeFiles/rebuild_cache.dir
